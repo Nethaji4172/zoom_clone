@@ -4,4 +4,21 @@ Comment lins and links:
 ShadCn : https://ui.shadcn.com/docs/installation/next
 Comment: npx create-next-app@latest my-app --typescript --tailwind --eslint
          npx shadcn-ui@latest init
- 
+         npx shadcn-ui@latest add button
+	 npx shadcn-ui@latest add sheet
+	 npx shadcn-ui@latest add dialog
+	 npx shadcn-ui@latest add input
+
+
+Clerk : https://clerk.com/docs/quickstarts/nextjs
+	npm install @clerk/nextjs
+
+stream : https://getstream.io/video/docs/react/basics/installation/
+	 npm install @stream-io/video-react-sdk
+
+API : npm install @stream-io/node-sdk
+
+npm i --save-dev @types/react-datepicker
+
+
+start: 	 npm run dev
